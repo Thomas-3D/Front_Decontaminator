@@ -30,7 +30,7 @@ copper brush | 1
 **Bucket**
 Size | Qty
 --- | ---
-M3x4 SHCS | 2
+M3x4-16 SHCS | 2
 
 These two screws need to be magnetic and can be longer. The screwholes are open on the underside.
 
