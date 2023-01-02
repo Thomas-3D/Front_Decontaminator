@@ -22,17 +22,13 @@ pro:
 **Brush Holder**
 Size | Qty
 --- | ---
+M3x4-16 SHCS | 2
 M3x10 SHCS | 2
 M3 T-Nut | 2
 Ø6x3 Magnet | 2
 copper brush | 1
 
-**Bucket**
-Size | Qty
---- | ---
-M3x4-16 SHCS | 2
-
-These two screws need to be magnetic and can be longer. The screwholes are open on the underside.
+The two screws for the bucket need to be magnetic and can be longer. The screwholes are open on the underside.
 
 ## Printed parts
 
