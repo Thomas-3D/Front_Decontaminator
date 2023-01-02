@@ -44,7 +44,7 @@ These parts are close to the heated bed, so I used ABS with standard Voron PIF s
 - 4 perimeters
 - 5 top and bottom layers
 
-The parts are designed for the front-right side. For the left side mirror the parts in your slicer
+The parts are designed for the front-right side. For the left side mirror the parts in your slicer.
 
 ## LDO-kit specific parts
 
