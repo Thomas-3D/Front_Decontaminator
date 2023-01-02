@@ -64,11 +64,11 @@ LDO ships longer bed spacers with their V2.4 kits, so the printed parts are high
 
 ## Changes in printer.cfg
 
-for my 350 build:
-[stepper_y]
-position_min: -7
-position_endstop: 350
-position_max: 350
+for my 350 build (use at own risk):
+- [stepper_y]
+- position_min: -7  # this is where the toolhead touches the front door
+- position_endstop: 350
+- position_max: 350
 
 ## Testing and feedback
 
