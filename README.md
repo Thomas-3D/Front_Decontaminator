@@ -5,6 +5,8 @@ This mod adds a nozzle brush and purge bucket to your Voron 2.4 printer's front 
 
 https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber
 
+![complete](https://github.com/Thomas-3D/Front_Decontaminator/blob/main/images/complete.jpg)
+
 This mod doesn't collide with Nevermore Filter mod.
 
 ## But why on the front?
@@ -66,11 +68,14 @@ for my 350(!) build:
 - loosen bed screws
 - home and move printhead to Y=0
 - align the front edge of the buildplate with your nozzle
-- install magnets to brush holder (if they are loose you can glue the afterward through the hole in the top)
+- install magnets to brush holder (if they are loose you can glue them in afterwards through holes in the top)
 - cut brush to 40mm and press it in the holder
 - mount brush holder with 2x M3x10 and T-nuts to the side of the bed extrusion
 - screw 2x SHCS in the bucket, threads are printed in
 
+![brush_holder](https://github.com/Thomas-3D/Front_Decontaminator/blob/main/images/brush_holder.jpg)
+
+![bucket_underside](https://github.com/Thomas-3D/Front_Decontaminator/blob/main/images/bucket_underside.jpg)
 
 ## Testing and feedback
 
