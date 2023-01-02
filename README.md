@@ -51,7 +51,7 @@ LDO ships longer bed spacers with their V2.4 kits, the printed parts need to be 
 
 ## Changes in printer.cfg
 
-for my 350(!) build:
+for my(!) 350 build:
 - [stepper_y]
 - ...
 - position_min: -7  # this is where the toolhead touches the front door
@@ -82,3 +82,5 @@ for my 350(!) build:
 I can only verify the 350mm LDO version works. Please give me feedback if your version works and how it can be improved.
 
 Tag me on Voron Discord: Justheretolookpretty#3570
+
+Have fun!
