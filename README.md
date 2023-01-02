@@ -32,7 +32,7 @@ The two screws for the bucket need to be magnetic and can be longer. The screwho
 
 ## Printed parts
 
-These parts are close to the heated bed, so I used ABS with standard Voron PIF settings. This is:
+These parts are close to the heated bed, I used ABS with standard Voron PIF settings. This is:
 - 0.4mm nozzle
 - 0.2mm layer height
 - 40% infill
@@ -44,7 +44,21 @@ The parts are designed for the front-right side. For the left side mirror the pa
 
 ## LDO-kit specific parts
 
-LDO ships longer bed spacers with their V2.4 kits, so the printed parts are higher.
+LDO ships longer bed spacers with their V2.4 kits, the printed parts need to be higher.
+
+
+## Changes in printer.cfg
+
+for my 350(!) build:
+- [stepper_y]
+- ...
+- position_min: -7  # this is where the toolhead touches the front door
+- position_endstop: 350
+- position_max: 350
+
+[include nozzle_scrub.cfg]
+- modify nozzle_scrub macro
+
 
 ## Installation
 
@@ -58,16 +72,8 @@ LDO ships longer bed spacers with their V2.4 kits, so the printed parts are high
 - screw 2x SHCS in the bucket, threads are printed in
 
 
-## Changes in printer.cfg
-
-for my 350 build (use at own risk):
-- [stepper_y]
-- position_min: -7  # this is where the toolhead touches the front door
-- position_endstop: 350
-- position_max: 350
-
 ## Testing and feedback
 
 I can only verify the 350mm LDO version works. Please give me feedback if your version works and how it can be improved.
 
-Discord Justheretolookpretty#3570
+Tag me on Voron Discord: Justheretolookpretty#3570
